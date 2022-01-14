@@ -1,3 +1,3 @@
 # Dishkov
 uprajnenie
-iskam 5
+iskam  5
